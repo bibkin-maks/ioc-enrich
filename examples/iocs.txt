@@ -1,0 +1,9 @@
+# sample IOC list — mixed types, defanged, with noise
+8.8.8.8
+185.220.101.34
+bad-login-portal[.]com
+hxxp://login-verify-account[.]com/session/refresh
+44d88612fea8a8f36de82e1278abb02f
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+8.8.8.8
+this line is noise
